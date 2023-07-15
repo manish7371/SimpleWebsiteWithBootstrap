@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    scrollbar-color: blue;
+    
+   
+}
+
+#navigation{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+
+
+
+#top_bener{
+    margin-top: 50px;
+    height: 500px;
+    background-image:url(https://media.istockphoto.com/id/1203599952/photo/assortment-of-fresh-organic-fruits-and-vegetables-in-rainbow-colors.webp?b=1&s=170667a&w=0&k=20&c=92WdbVXN_471z4QQdrw5oaqTQW3pBu8atfA7MVPu7fo=) ;
+    background-position-x: center;
+    background-size: cover;
+    width: 100%;
+}
+.col-md-12{
+    text-align: center;
+    padding-top: 80px;
+}
+#one{
+    padding-top: 50px;
+}
+/* .top_bener h1{
+    text-align: center;
+    font-size: 75px;
+    font-weight: 500px;
+    padding-top: 15%;
+} */
+/*.top_bener p{
+    text-align: center;
+    font-size: 35px;
+}
+.top_bener span{
+    box-shadow: 0px 0px 10px white;
+   margin-left: 38%;
+    text-align: center;
+    font-size: 45px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+#food service{
+    color: black;
+} */
+
+
+
+/* Css in Page Of  Service.Html */
+
+.manish{
+    width: 300px;
+}
+.img-thumbnail{
+    height: 150px;
+    /* width: 350px; */
+}

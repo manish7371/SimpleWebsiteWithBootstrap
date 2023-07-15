@@ -1,0 +1,22 @@
+.container{
+    border: 10px solid violet;
+}
+.row{
+    border: 5px solid black;
+    color: white;
+}
+
+.pink{
+    background-color: pink;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.h2{
+    width: 500px;
+    border: 10px dotted red;
+    color: black;
+}
